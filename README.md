@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning **Vue.js**
 
-[This is my lifaholic blog](https://www.devstories.me/)
+[This is my lifeaholic blog](https://www.devstories.me/)
 <!--
 **TharinduRewatha/TharinduRewatha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
