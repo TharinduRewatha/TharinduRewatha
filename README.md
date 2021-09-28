@@ -2,7 +2,11 @@
 
 🌱 I’m currently learning **Vue.js**
 
+💬 Connect with me : [LinkedIn](https://www.linkedin.com/in/tharindu-rewatha/)
+
 [This is my lifeaholic blog](https://www.devstories.me/)
+
+### FOR THE LOVE OF OPENSOURCE🧡🧡
 <!--
 **TharinduRewatha/TharinduRewatha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
