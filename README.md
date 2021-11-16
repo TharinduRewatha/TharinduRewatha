@@ -6,7 +6,7 @@
 
 [This is my lifeaholic blog](https://www.devstories.me/)
 
-### FOR THE LOVE OF OPENSOURCE🧡🧡
+### THE POWER OF OPEN SOURCE IS THE POWER OF PEOPLE. THE PEOPLE RULE🧡🧡
 <!--
 **TharinduRewatha/TharinduRewatha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
