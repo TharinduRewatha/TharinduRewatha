@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Tharindu Rewatha
 
-🌱 I’m currently learning **Vue.js**
+🌱 I’m currently learning **React.js**
 
 💬 Connect with me : [LinkedIn](https://www.linkedin.com/in/tharindu-rewatha/)
 
