@@ -4,7 +4,7 @@
 
 💬 Connect with me : [LinkedIn](https://www.linkedin.com/in/tharindu-rewatha/)
 
-[This is my lifeaholic blog](https://www.devstories.blogspot.com/)
+[This is my lifeaholic blog](https://thisismydevdiary.blogspot.com/)
 
 ### THE POWER OF OPEN SOURCE IS THE POWER OF THE PEOPLE. THE PEOPLE RULE🧡🧡
 <!--
