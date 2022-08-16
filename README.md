@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Tharindu Rewatha
 
-🌱 I’m currently learning **React.js**
+🌱 I’m currently learning **Test Automation**
 
 💬 Connect with me : [LinkedIn](https://www.linkedin.com/in/tharindu-rewatha/)
 
